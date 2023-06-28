@@ -37,7 +37,7 @@ section h3 {
     
 }
 
-figure {
+.flexconteiner figure {
     position: relative;
     padding-top: 5%;
     width: 100%;
@@ -47,7 +47,7 @@ figure {
 .imgRecomendad {
 
 }
-figure h3 {
+.flexconteiner figure  h3 {
     position: absolute;
 }
 
